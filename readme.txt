@@ -1,7 +1,4 @@
-
-
-I use Unix command line prompt.
-
+Unix CLI
 Syntax usage use: python3 part3.py <source path> <destination path> <number of clusters>
 
 for this program I had passsed:  
